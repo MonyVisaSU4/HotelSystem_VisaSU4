@@ -1,0 +1,13 @@
+D:\Data drive D\SU4\Year2 Semmester 1\C# II\Online_Learning\Lesson 7\Chapter7\Chapter7\bin\Debug\Chapter7.exe.config
+D:\Data drive D\SU4\Year2 Semmester 1\C# II\Online_Learning\Lesson 7\Chapter7\Chapter7\bin\Debug\Chapter7.exe
+D:\Data drive D\SU4\Year2 Semmester 1\C# II\Online_Learning\Lesson 7\Chapter7\Chapter7\bin\Debug\Chapter7.pdb
+D:\Data drive D\SU4\Year2 Semmester 1\C# II\Online_Learning\Lesson 7\Chapter7\Chapter7\obj\Debug\Chapter7.csproj.AssemblyReference.cache
+D:\Data drive D\SU4\Year2 Semmester 1\C# II\Online_Learning\Lesson 7\Chapter7\Chapter7\obj\Debug\Chapter7.Form1.resources
+D:\Data drive D\SU4\Year2 Semmester 1\C# II\Online_Learning\Lesson 7\Chapter7\Chapter7\obj\Debug\Chapter7.Properties.Resources.resources
+D:\Data drive D\SU4\Year2 Semmester 1\C# II\Online_Learning\Lesson 7\Chapter7\Chapter7\obj\Debug\Chapter7.csproj.GenerateResource.cache
+D:\Data drive D\SU4\Year2 Semmester 1\C# II\Online_Learning\Lesson 7\Chapter7\Chapter7\obj\Debug\Chapter7.csproj.CoreCompileInputs.cache
+D:\Data drive D\SU4\Year2 Semmester 1\C# II\Online_Learning\Lesson 7\Chapter7\Chapter7\obj\Debug\Chapter7.exe
+D:\Data drive D\SU4\Year2 Semmester 1\C# II\Online_Learning\Lesson 7\Chapter7\Chapter7\obj\Debug\Chapter7.pdb
+D:\Data drive D\SU4\Year2 Semmester 1\C# II\Online_Learning\Lesson 7\Chapter7\Chapter7\obj\Debug\Chapter7.Timer.resources
+D:\Data drive D\SU4\Year2 Semmester 1\C# II\Online_Learning\Lesson 7\Chapter7\Chapter7\obj\Debug\Chapter7.Timer_Game.resources
+D:\Data drive D\SU4\Year2 Semmester 1\C# II\Online_Learning\Lesson 7\Chapter7\Chapter7\obj\Debug\Chapter7.PictureBoxTimeRandom.resources
